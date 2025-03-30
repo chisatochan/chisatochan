@@ -10,6 +10,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=Cplusplus&logoColor=white)
 ### Tools
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual_Studio_Code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=black)</br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LinuxMint](https://img.shields.io/badge/Linux_Mint-68C174?style=flat-square&logo=linuxmint&logoColor=black)</br>
