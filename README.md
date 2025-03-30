@@ -1,4 +1,5 @@
 # Hello There! (^^)/
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chisatochan&show_icons=true&theme=dracula&hide_title=true)</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anonymousffff)](https://solved.ac/anonymousffff/)
 # TechStacks & Tools
 ## Available
