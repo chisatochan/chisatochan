@@ -14,7 +14,8 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-0751CF?style=flat-square&logo=zed&logoColor=white)</br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![ChatGpt](https://img.shields.io/badge/ChatGpt-181818?style=flat-square&logo=OpenAi&logoColor=white)</br>
+![ChatGpt](https://img.shields.io/badge/ChatGpt-181818?style=flat-square&logo=OpenAi&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=black)</br>
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=black)
 ## Learning
 ### TechStacks
@@ -22,7 +23,6 @@
 ![CSS](https://img.shields.io/badge/CSS-3178C6.svg?&style=for-the-badge&logo=Css&logoColor=white)
 ### Tools
 ![Docker](https://img.shields.io/badge/Docker-1868DB?style=flat-square&logo=Docker&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ArchLinux](https://img.shields.io/badge/ArchLinux-0088CC?style=flat-square&logo=ArchLinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05133?style=flat-square&logo=Git&logoColor=white)
