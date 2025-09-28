@@ -11,8 +11,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-FFFFFF.svg?&style=for-the-badge&logo=Markdown&logoColor=black)
 ### Tools
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual_Studio_Code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-0751CF?style=flat-square&logo=zed&logoColor=white)</br>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
 ![ChatGpt](https://img.shields.io/badge/ChatGpt-181818?style=flat-square&logo=OpenAi&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=black)</br>
@@ -39,7 +37,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-1868DB?style=flat-square&logo=Jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square)
 # Contact
 WIP
